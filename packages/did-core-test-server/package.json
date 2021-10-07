@@ -19,7 +19,7 @@
   "dependencies": {
     "fastify": "^3.3.0",
     "fastify-cors": "^4.1.0",
-    "fastify-swagger": "^3.3.0"
+    "fastify-swagger": "^4.3.2"
   },
   "devDependencies": {
     "base64url": "^3.0.1",
