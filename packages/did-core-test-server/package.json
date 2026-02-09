@@ -17,7 +17,7 @@
     "node": ">=8.3.0"
   },
   "dependencies": {
-    "fastify": "^3.3.0",
+    "fastify": "^5.7.3",
     "fastify-cors": "^4.1.0",
     "fastify-swagger": "^3.3.0"
   },
